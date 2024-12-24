@@ -99,12 +99,12 @@ La representación visual del roadmap debe ser dinámica e intuitiva para facili
 
 ---
 
-### **4. Herramientas Administrativas**
-#### **4.1. Gestión del Roadmap**
+### **3. Herramientas Administrativas**
+#### **3.1. Gestión del Roadmap**
 - Crear, editar y eliminar nodos o relaciones desde una interfaz administrativa.
 - Gestión de categorías y etiquetas para organizar los nodos.
 
-#### **4.2. Análisis y Estadísticas**
+#### **3.2. Análisis y Estadísticas**
 - Seguimiento de popularidad por nodo:
   - Número de visitas.
   - Número de reacciones.
@@ -113,74 +113,22 @@ La representación visual del roadmap debe ser dinámica e intuitiva para facili
 
 ---
 
-### **5. Escalabilidad y Comunidad**
-#### **5.1. Escalabilidad del Roadmap**
+### **4. Escalabilidad y Comunidad**
+#### **4.1. Escalabilidad del Roadmap**
 - Posibilidad de añadir múltiples roadmaps (e.g., diferentes especializaciones o temas dentro de la informática).
 - Navegación entre roadmaps.
 
-#### **5.2. Comunidad**
+#### **4.2. Comunidad**
 - Foro o sección de comentarios para discutir sobre nodos específicos.
 - Función de compartir nodos específicos en redes sociales.
 
 ---
 
-### **6. Consideraciones Técnicas**
-#### **6.1. Accesibilidad**
-- Interfaz responsiva para desktop y móvil.
-- Asegurar que el grafo sea navegable en dispositivos con pantallas pequeñas.
+# Referencias
+- https://roadmap.sh/
+- https://github.com/apeman/awesome_computer_science
+- https://github.com/ossu/computer-science
+- https://bulletin.sfsu.edu/colleges/science-engineering/computer-science/bs-computer-science/roadmap-i-ii-eng/
 
-#### **6.2. Performance**
-- Optimización para grafos grandes (muchos nodos y relaciones).
-- Carga diferida de nodos o relaciones según la interacción del usuario.
+![image](https://github.com/user-attachments/assets/bd8482f7-0e4b-44c3-a6e3-be3b894b40ff)
 
----
-
-### **Agradecimientos**
-
-Esta sección está diseñada para reconocer a todas las personas, instituciones y recursos que han contribuido al desarrollo del roadmap, tanto en su creación inicial como en la constante mejora y actualización.
-
-#### **1. Agradecimientos Generales**
-- **Agradecimientos a la Comunidad Académica:** A todos los profesores, estudiantes y expertos que han compartido su conocimiento y recursos sobre las distintas áreas de la Ingeniería Informática.
-- **Agradecimientos a las Universidades:** A las instituciones educativas que han facilitado acceso a cursos, investigaciones y proyectos abiertos, permitiendo que se compartan en el roadmap.
-- **Agradecimientos a los Colaboradores:** A todas las personas que han contribuido directamente al contenido del roadmap, ya sea sugiriendo nuevos nodos, proporcionando recursos relevantes o participando en el desarrollo técnico de la herramienta.
-
-#### **2. Agradecimientos a los Recursos Externos**
-- **Publicaciones y Artículos:** A los autores y editoriales que han publicado artículos y trabajos de investigación que han servido como base de conocimiento.
-- **Plataformas Educativas:** A plataformas como Coursera, edX, Udemy, entre otras, que ofrecen cursos accesibles que han sido referenciados en este roadmap.
-- **Comunidades Abiertas y Foros:** A las comunidades de código abierto y foros como Stack Overflow, GitHub, Reddit, y otros, que han facilitado el intercambio de ideas, soluciones y recursos de gran valor.
-
-#### **3. Reconocimiento a las Herramientas y Tecnologías Usadas**
-- **Frameworks y Librerías:** A las herramientas de software utilizadas en el desarrollo del roadmap (e.g., D3.js para la visualización del grafo, frameworks de frontend como React, entre otros).
-- **Herramientas de Diseño:** A las herramientas de diseño como Figma, Sketch o Adobe XD, que ayudaron en la creación de la interfaz de usuario.
-
----
-
-### **Cómo Colaborar**
-
-El roadmap es un esfuerzo colectivo, y cualquier aporte que ayude a mejorar su contenido o funcionalidad es bienvenido. Aquí te explicamos cómo puedes colaborar:
-
-#### **1. Contribuir con Nuevos Nodos**
-Si tienes experiencia en alguna de las áreas de la Ingeniería Informática y deseas compartirla, puedes sugerir nuevos nodos para el roadmap. Los nodos pueden estar relacionados con:
-- **Nuevas tendencias o tecnologías emergentes.**
-- **Áreas de especialización que aún no están representadas.**
-- **Cursos, libros, o artículos útiles que podrían enriquecer los nodos existentes.**
-
-#### **2. Proponer Recursos**
-Si conoces recursos valiosos que puedan ser vinculados a un nodo específico (artículos, videos, conferencias, repositorios de código, etc.), puedes sugerirlos. La aportación de recursos enriquecen el aprendizaje de los usuarios.
-
-#### **3. Participar en el Desarrollo Técnico**
-Si tienes conocimientos técnicos y deseas contribuir al desarrollo de la herramienta:
-- **Desarrollar nuevas funcionalidades:** Ayudar a implementar nuevas características para mejorar la interacción y visualización del grafo.
-- **Optimización del Rendimiento:** Mejorar la eficiencia de la herramienta para gestionar grandes cantidades de nodos y relaciones.
-- **Asegurar la Compatibilidad Móvil:** Mejorar la experiencia de usuario en dispositivos móviles, asegurando que el roadmap sea fácil de usar en todas las plataformas.
-
-#### **4. Traducir el Roadmap**
-Si el roadmap está disponible en varios idiomas o quieres ayudar a traducir los textos de la herramienta, cualquier contribución en la traducción es invaluable, especialmente si deseas expandir el acceso a estudiantes de diferentes regiones o países.
-
-#### **5. Participar en la Comunidad**
-Si prefieres colaborar de manera no técnica, siempre puedes participar activamente en la **comunidad** del roadmap:
-- **Comentarios y sugerencias:** Deja tus comentarios y sugerencias sobre cómo mejorar la herramienta o los nodos existentes.
-- **Discusiones:** Participa en foros o espacios de discusión donde otros usuarios pueden compartir ideas, dudas y experiencias.
-
-#### **6. Reportar Errores o Problemas**
-Si encuentras errores, bugs, o cualquier problema en la funcionalidad de la herramienta, no dudes en reportarlos. Ayudar a mejorar la calidad del roadmap es una de las formas más importantes de colaboración.
