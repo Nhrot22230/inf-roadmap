@@ -129,6 +129,8 @@ La representación visual del roadmap debe ser dinámica e intuitiva para facili
 - https://github.com/apeman/awesome_computer_science
 - https://github.com/ossu/computer-science
 - https://bulletin.sfsu.edu/colleges/science-engineering/computer-science/bs-computer-science/roadmap-i-ii-eng/
+- ![image](https://github.com/user-attachments/assets/dfb49d5d-5213-430f-8816-056918ff2146)
+
 
 ![image](https://github.com/user-attachments/assets/bd8482f7-0e4b-44c3-a6e3-be3b894b40ff)
 
